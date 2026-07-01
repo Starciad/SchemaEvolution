@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37328.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchemaEvolution.Core", "SchemaEvolution.Core\SchemaEvolution.Core.csproj", "{110EF07C-838F-4CB1-B96D-9E7FF2E8CF58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchemaEvolution.Sample", "SchemaEvolution.Sample\SchemaEvolution.Sample.csproj", "{361ED1C3-E777-4D13-B467-42A2C21FDA5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110EF07C-838F-4CB1-B96D-9E7FF2E8CF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110EF07C-838F-4CB1-B96D-9E7FF2E8CF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110EF07C-838F-4CB1-B96D-9E7FF2E8CF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110EF07C-838F-4CB1-B96D-9E7FF2E8CF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361ED1C3-E777-4D13-B467-42A2C21FDA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361ED1C3-E777-4D13-B467-42A2C21FDA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361ED1C3-E777-4D13-B467-42A2C21FDA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361ED1C3-E777-4D13-B467-42A2C21FDA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C8F712-6455-4A72-87D4-1E44084AD9B8}
+	EndGlobalSection
+EndGlobal
